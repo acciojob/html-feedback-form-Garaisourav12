@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+	margin-bottom: 10px;
+}
+
+div{
+	margin-top: 10px;
+	display: flex;
+	flex-direction: column;
+}
